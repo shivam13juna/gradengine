@@ -1,10 +1,12 @@
-# Simple-Machine-Learning-Project-Template
+# This is a Grad Engine
 
-![image](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+Based on micro-grad from Andrej Karpathy, but with some improvements. This also, works only with 1d scaler.
 
 
-This repo implements a very **minimal** machine learning template, not dependent on any framework, or any library, the most basic structure to start a machine learning project.
+# To Do
 
+- [ ] Implement the `data handling`  for multi dimensional list, dummy data
+- [ ] Implement the `backward` function for multi dimensional list, dummy data
 
 
 
